@@ -11,8 +11,8 @@ This project is a responsive, single-page landing page for **Namu**. Designed to
 
 ## Live Preview
 
-- **Live Demo**: [https://vanvalera.github.io/museum-namu-landing-page/](#)
+[Live Demo](https://vanvalera.github.io/Museum_2/)
 
 ## Design Mockup
 
-- **Mockup Preview**: [https://www.figma.com/design/HL3XGt5ZatvJoYBhOaWY5x/museum-prototype?node-id=323-1957&node-type=canvas&t=wR3DZxPz57rm3bGP-0](#)
+[View Mockup](https://www.figma.com/design/HL3XGt5ZatvJoYBhOaWY5x/museum-prototype?node-id=323-1957&node-type=canvas&t=wR3DZxPz57rm3bGP-0)
